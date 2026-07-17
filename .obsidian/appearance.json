@@ -1,0 +1,11 @@
+{
+  "interfaceFontFamily": "Arial Rounded MT",
+  "baseFontSizeAction": true,
+  "accentColor": "#af99ea",
+  "cssTheme": "Ultra Lobster",
+  "theme": "system",
+  "baseFontSize": 19,
+  "enabledCssSnippets": [
+    "zotero-note-hide-sync-comments"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "enableDefaultPasteConversion": true,
+  "wrapMatrixEnvsInDisplayMath": true,
+  "plainParensAsDelimiters": false,
+  "plainBracketsAsDelimiters": true,
+  "convertBareInlineLatex": false,
+  "wrapBareMathSingleLines": true
+}

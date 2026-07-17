@@ -1,0 +1,7 @@
+/* Hide Zotero Integration persist markers in notes using cssclass: zotero-note. */
+.markdown-preview-view.zotero-note .comment,
+.markdown-reading-view.zotero-note .comment,
+.markdown-source-view.mod-cm6.zotero-note .cm-line:has(.cm-comment),
+.markdown-source-view.mod-cm6 .cm-contentContainer:has(.cm-hmd-frontmatter.cm-atom) .cm-line:has(.cm-comment) {
+  display: none !important;
+}
