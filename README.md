@@ -920,7 +920,8 @@ obsidian_template/Zotero_template.md
 first commit/update zotero notes workflow tutorial
 ```
 
-4. 点击 Commit/提交，可看到下方“图表”处已同步。
+4. 点击 Commit/提交。
+5. 点击同步更改，可看到下方“图表”处已同步
 
 ![Pasted image 20260717210323.png](attachments/pasted_image_20260717210323.png)
 
