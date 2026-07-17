@@ -793,9 +793,6 @@ git@github.com:username/Peach-Obsidian-Notes.git
 origin
 ```
 
-![Pasted image 20260717205726.png](attachments/pasted_image_20260717205726.png)
-
-
 可以用下面命令确认是否关联成功：
 
 ```bash
@@ -805,11 +802,10 @@ git remote -v
 如果输出类似下面这样，说明正确：
 
 ```text
-origin  git@github.com:username/Peach-Obsidian-Notes.git (fetch)
-origin  git@github.com:username/Peach-Obsidian-Notes.git (push)
+origin  git@github.com:username/xxx.git (fetch)
+origin  git@github.com:username/xxx.git (push)
 ```
 
-![Pasted image 20260717205900.png](attachments/pasted_image_20260717205900.png)
 ### 16.6 添加 `.gitignore`
 
 建议在 vault 根目录添加 `.gitignore`，避免把大体积/明显不需要同步的内容推到 GitHub。
