@@ -52,6 +52,7 @@
   - [16.7 提交和推送](#167-提交和推送)
   - [16.8 推荐备份习惯](#168-推荐备份习惯)
 - [17. 附带配置文件](#17-附带配置文件)
+- [18.参考链接](#18.参考链接)
 
 
 
@@ -977,6 +978,7 @@ imageOutputPathTemplate
 templatePath
 ```
 
+
 教程截图都在：
 
 ```text
@@ -984,3 +986,12 @@ attachments/
 ```
 
 GitHub 上直接打开这个目录就能看到图片。
+
+
+## 18.参考链接
+
+[AI时代，你需要熟悉的核心软件是Obsidian，Obsidian使用完全指南 - 知乎](https://zhuanlan.zhihu.com/p/2026071811813643264)
+[Obsidian & Zotero 联动 - 如何快速从Zotero生成一篇文献笔记 - 技术栈](https://jishuzhan.net/article/2044583130447806465)
+[如何优雅地做文献笔记（Obsidian+Zotero）](https://imyxl.com/p/obsidian-zotero/#zotero-%E9%85%8D%E7%BD%AE)
+[Zotero + Obsidian 联动配置完全指南Zotero + Obsidian 联动配置完全指南 目录 方案概述 - 掘金](https://juejin.cn/post/7644408364400885794)
+[Git教程 - 廖雪峰的官方网站](https://liaoxuefeng.com/books/git/introduction/index.html)
